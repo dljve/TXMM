@@ -1,0 +1,153 @@
+ALL
+
+Category        Number of dreams        Automized codings       Human codings   Percent perfect agreement
+_________________________________________________________________________________________________________
+Characters      911                     3892                    2450
+  Presence      911                                                             0.5907
+  Number        911                                                             0.9185
+  Gender        911                                                             0.6803
+  Identity      911                                                             0.4820
+  Age           911                                                             0.9423
+  All correct   911                                                             0.2794
+
+Total time: 144.85099792480469
+Mean time: 0.14765647087136055 
+Reports: 981
+
+(if include, you must also include specs)
+
+WITHOUT PERSON
+
+Category        Number of dreams        Automized codings       Human codings   Percent perfect agreement
+_________________________________________________________________________________________________________
+Characters      647                     1197                    1950
+  Presence      647                                                             0.5510
+  Number        647                                                             0.8846
+  Gender        647                                                             0.6896
+  Identity      647                                                             0.4436
+  Age           647                                                             0.7809
+  All correct   647                                                             0.3148
+
+  
+  
+WITHOUT PERSON PLURAL
+
+Category        Number of dreams        Automized codings       Human codings   Percent perfect agreement
+_________________________________________________________________________________________________________
+Characters      911                     3892                    2450
+  Presence      911                                                             0.5907
+  Number        911                                                             0.7958
+  Gender        911                                                             0.6696
+  Identity      911                                                             0.4938
+  Age           911                                                             0.9414
+  All correct   911                                                             0.2556
+
+
+  
+WITHOUT OCCUPATION
+Category        Number of dreams        Automized codings       Human codings   Percent perfect agreement
+_________________________________________________________________________________________________________
+Characters      911                     3892                    2450
+  Presence      911                                                             0.5907
+  Number        911                                                             0.9185
+  Gender        911                                                             0.6866
+  Identity      911                                                             0.4412
+  Age           911                                                             0.9414
+  All correct   911                                                             0.2658  
+  
+WITHOUT SOCIAL GROUP
+
+Category        Number of dreams        Automized codings       Human codings   Percent perfect agreement
+_________________________________________________________________________________________________________
+Characters      905                     3621                    2443
+  Presence      905                                                             0.6076
+  Number        905                                                             0.8940
+  Gender        905                                                             0.6680
+  Identity      905                                                             0.4834
+  Age           905                                                             0.9346
+  All correct   905                                                             0.2744 
+  
+WITHOUT FAMOUS PERSON NER 
+ 
+Category        Number of dreams        Automized codings       Human codings   Percent perfect agreement
+_________________________________________________________________________________________________________
+Characters      909                     3843                    2452
+  Presence      909                                                             0.5957
+  Number        909                                                             0.9157
+  Gender        909                                                             0.6694
+  Identity      909                                                             0.4804
+  Age           909                                                             0.9421
+  All correct   909                                                             0.2762
+  
+WITHOUT RELATIVE AND FAMILY LOOKUP 
+  
+Category        Number of dreams        Automized codings       Human codings   Percent perfect agreement
+_________________________________________________________________________________________________________
+Characters      911                     3883                    2450
+  Presence      911                                                             0.5908
+  Number        911                                                             0.9184
+  Gender        911                                                             0.5999
+  Identity      911                                                             0.4094
+  Age           911                                                             0.9430
+  All correct   911                                                             0.1964
+  
+WITHOUT GENDER TEST
+  
+Category        Number of dreams        Automized codings       Human codings   Percent perfect agreement
+_________________________________________________________________________________________________________
+Characters      911                     3892                    2450
+  Presence      911                                                             0.5907
+  Number        911                                                             0.9193
+  Gender        911                                                             0.5694
+  Identity      911                                                             0.4904
+  Age           911                                                             0.9380
+  All correct   911                                                             0.2561
+
+WITHOUT GENDER TEST
+
+Category        Number of dreams        Automized codings       Human codings   Percent perfect agreement
+_________________________________________________________________________________________________________
+Characters      911                     3892                    2450
+  Presence      911                                                             0.5907
+  Number        911                                                             0.9180
+  Gender        911                                                             0.6815
+  Identity      911                                                             0.4832
+  Age           911                                                             0.9325
+  All correct   911                                                             0.2790
+  
+  
+WITHOUT COREFERENCE
+
+Category        Number of dreams        Automized codings       Human codings   Percent perfect agreement
+_________________________________________________________________________________________________________
+Characters      911                     3892                    2450
+  Presence      911                                                             0.5907
+  Number        911                                                             0.9202
+  Gender        911                                                             0.5958
+  Identity      911                                                             0.4828
+  Age           911                                                             0.9389
+  All correct   911                                                             0.2450
+
+WITHOUT ANIMAL
+
+Category        Number of dreams        Automized codings       Human codings   Percent perfect agreement
+_________________________________________________________________________________________________________
+Characters      909                     3723                    2454
+  Presence      909                                                             0.6048
+  Number        909                                                             0.9184
+  Gender        909                                                             0.6607
+  Identity      909                                                             0.4446
+  Age           909                                                             0.9235
+  All correct   909                                                             0.2564
+
+WITHOUT KNOWN TEST
+  
+Category        Number of dreams        Automized codings       Human codings   Percent perfect agreement
+_________________________________________________________________________________________________________
+Characters      911                     3892                    2450
+  Presence      911                                                             0.5907
+  Number        911                                                             0.9261
+  Gender        911                                                             0.6989
+  Identity      911                                                             0.3401
+  Age           911                                                             0.9397
+  All correct   911                                                             0.2297
